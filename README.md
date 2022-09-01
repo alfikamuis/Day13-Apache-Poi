@@ -7,4 +7,10 @@
 
 ![image](https://user-images.githubusercontent.com/38674801/187890694-ab67f5e0-8305-463d-8942-7fbd8ecc6b4a.png)
 
+# import 500 data
+![image](https://user-images.githubusercontent.com/38674801/187959000-5b367c4c-bf41-4c15-802e-347cef9be668.png)
+![image](https://user-images.githubusercontent.com/38674801/187959387-9a118718-0130-4466-9fe0-312eb752847a.png)
+
+
+
 
